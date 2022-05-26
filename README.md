@@ -7,3 +7,8 @@ This (tiny) repo covers my reading and notes from _Rust in Action_, "Chapter 5 -
 ## Questions
 
 - `to_bits()` interprets the bits of the `f32` as a `u32` _to allow for bit manipulation_. Is bit manipulation only possible on unsigned integers?
+
+## Additional Reading/Resources
+
+- [Mask (computing)](<https://en.wikipedia.org/wiki/Mask_(computing)>)
+- [Exponent bias](https://en.wikipedia.org/wiki/Exponent_bias)
